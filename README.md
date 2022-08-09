@@ -7,6 +7,7 @@ These are the 5 ways to deploy micro-services
 4. Orchestrators
 5. As Serverless functions
 
+![image](https://user-images.githubusercontent.com/14816505/183648324-c0c8ecc8-f06d-47d2-8bd5-d179fcf1f746.png)
 
 ### Reference
-https://semaphoreci.com/blog/deploy-microservices
+Blog - https://semaphoreci.com/blog/deploy-microservices
