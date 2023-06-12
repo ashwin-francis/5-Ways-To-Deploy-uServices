@@ -1,4 +1,0 @@
-https://mherman.org/microservice-movies/#1
-
-
-https://github.com/mjhea0/microservice-movies
